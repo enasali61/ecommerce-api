@@ -1,0 +1,6 @@
+@Ecommerse2_HostAddress = https://localhost:7102
+
+GET {{Ecommerse2_HostAddress}}/api/weatherforecast/
+Accept: application/json
+
+###
